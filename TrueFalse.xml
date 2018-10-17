@@ -1,0 +1,7 @@
+<questiontext format="html">
+       <text><![CDATA[
+              Now I can include <strong>any</strong> HTML that I<br />
+              wish. Without the CDATA, the <i>HTML</i> tags would break
+              the XML!!
+              ]]>
+        </text>
